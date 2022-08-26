@@ -4,6 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "sh packet.sh"
+    "start": "sh packet.sh"
   }
 }
